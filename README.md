@@ -2,17 +2,19 @@
   <a href="https://niie2333.github.io/EatKano/"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
-https://niie2333.github.io/EatKano/
+
 # 干掉宋长春
 
-_🦌 网页小游戏 🥛_
+_网页小游戏 _
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：干掉宋长春
+[干掉宋长春](https://niie2333.github.io/EatKano/)
+原文档链接：
 
 [English](README_EN.md)
 |
