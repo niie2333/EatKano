@@ -13,7 +13,9 @@ _网页小游戏 _
 ## 简介
 
 小游戏：干掉宋长春
+
 [干掉宋长春](https://niie2333.github.io/EatKano/)
+
 原文档链接：
 
 [English](README_EN.md)
